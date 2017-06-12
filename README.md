@@ -1,6 +1,4 @@
 # aulas
 
-    [Programação Comercial]
 
-
-[Programação Comercial]: ./Programação Comercial
+[Programação Comercial](programacao-comercial/README.md)
